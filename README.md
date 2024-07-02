@@ -6,4 +6,4 @@ install the necessary packages in the requirement file
 
  dockercompose files
 
- `dockercompose .
+ `dockercompose .`
